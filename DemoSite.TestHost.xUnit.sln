@@ -13,9 +13,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{809228F0-E26
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FD17B616-E270-43CF-B016-ECCF32544B1A}"
 	ProjectSection(SolutionItems) = preProject
+		.dockerignore = .dockerignore
 		.editorconfig = .editorconfig
 		.gitattributes = .gitattributes
 		.gitignore = .gitignore
+		dockerbuild-debug.sh = dockerbuild-debug.sh
+		dockerbuild-demo.sh = dockerbuild-demo.sh
+		Dockerfile = Dockerfile
 		README.md = README.md
 	EndProjectSection
 EndProject
